@@ -16,3 +16,16 @@ You need to have Python installed on your system to use this script.
 
    ```bash
    python htaccess_ip_blocker.py
+
+
+### Feature
+
+Add IP Blacklist from https://github.com/stamparm/ipsum  (check it !!!)
+
+
+### Feature (optional)
+
+Check also the more complete list here
+https://github.com/firehol/blocklist-ipsets
+( I don't need it, it's too much )
+( My website has random attack from all around the world... )
