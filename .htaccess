@@ -8008,5 +8008,11 @@ deny from 38.171.238.237
 deny from 2.50.162.12
 deny from 119.94.179.188
 deny from 178.221.53.254
-deny from 193.56.254.114
+deny from 189.84.254.68
+deny from 86.98.85.231
+deny from 3.124.2.181
+deny from 158.62.98.56
+deny from 125.160.22.235
+deny from 36.37.228.154
+deny from 27.147.204.241
 #######   HTAccessIPBlocker END    #######
