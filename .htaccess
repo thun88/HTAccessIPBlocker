@@ -8052,4 +8052,7 @@ deny from 102.219.81.92
 deny from 5.27.38.239
 deny from 175.157.143.30
 deny from 119.111.147.189
+deny from 176.121.105.113
+deny from 176.98.217.240
+deny from 177.140.135.59
 #######   HTAccessIPBlocker END    #######
