@@ -8089,4 +8089,5 @@ deny from 154.29.27.0/24
 deny from 181.214.27.24
 deny from 181.214.27.127
 deny from 181.214.27.178
+deny from 86.107.32.0/24
 #######   HTAccessIPBlocker END    #######
