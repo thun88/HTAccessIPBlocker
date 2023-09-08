@@ -8055,4 +8055,27 @@ deny from 119.111.147.189
 deny from 176.121.105.113
 deny from 176.98.217.240
 deny from 177.140.135.59
+deny from 86.107.32.162
+deny from 154.17.128.0/21
+deny from 154.17.136.0/24
+deny from 154.17.137.0/24
+deny from 154.17.138.0/24
+deny from 154.17.139.0/24
+deny from 154.17.140.0/24
+deny from 154.17.143.0/24
+deny from 149.71.185.0/24
+deny from 149.71.186.0/24
+deny from 149.71.187.0/24
+deny from 149.71.188.0/24
+deny from 145.14.139.0/24
+deny from 178.218.138.0/24
+deny from 185.162.117.0/24
+deny from 185.162.118.0/24
+deny from 185.183.176.0/24
+deny from 185.184.201.0/24
+deny from 123.203.100.232
+deny from 147.161.163.89
+deny from 158.115.232.118
+deny from 217.173.254.92
+deny from 85.240.105.196
 #######   HTAccessIPBlocker END    #######
