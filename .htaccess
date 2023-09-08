@@ -8090,4 +8090,23 @@ deny from 181.214.27.24
 deny from 181.214.27.127
 deny from 181.214.27.178
 deny from 86.107.32.0/24
+deny from 176.121.105.0/24
+deny from 176.121.106.0/24
+deny from 110.249.202.0/24
+deny from 110.249.201.0/24
+deny from 220.243.188.0/23
+deny from 154.17.129.12
+deny from 2a01:4ff:f0:e5a4::1
+deny from 40.83.2.64/28
+deny from 20.15.240.64/28
+deny from 20.15.240.80/28
+deny from 20.15.240.96/28
+deny from 20.15.240.176/28
+deny from 20.15.241.0/28
+deny from 20.15.242.128/28
+deny from 20.15.242.144/28
+deny from 20.15.242.192/28
+deny from 40.83.2.64/28
+deny from 154.28.64.59
+deny from 111.225.148.0/24
 #######   HTAccessIPBlocker END    #######
