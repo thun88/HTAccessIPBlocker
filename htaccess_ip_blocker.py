@@ -5,6 +5,7 @@ with open(input_file, "r") as ip_list:
     ip_addresses = ip_list.readlines()
 
 htaccess_code = "#######   HTAccessIPBlocker BEGIN    #######\n"
+htaccess_code += "Order deny,allow\n"
 
 for ip_address in ip_addresses:
     ip_address = ip_address.strip()
