@@ -8111,7 +8111,7 @@ deny from 111.225.149.0/24
 deny from 154.29.24.0/22
 deny from 79.101.43.164
 deny from 103.2.135.0/24
-deny from 217.113.194.
+deny from 217.113.194.0/24
 deny from 37.239.78.21
 deny from 202.43.120.9
 deny from 2401:4900:47fc:f08:5976:5255:fa96:6e3c
