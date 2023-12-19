@@ -8111,4 +8111,12 @@ deny from 111.225.149.0/24
 deny from 154.29.24.0/22
 deny from 79.101.43.164
 deny from 103.2.135.0/24
+deny from 217.113.194.
+deny from 37.239.78.21
+deny from 202.43.120.9
+deny from 2401:4900:47fc:f08:5976:5255:fa96:6e3c
+deny from 2405:201:e029:d020:a594:bc6d:fdf0:ab5
+deny from 2405:201:d004:d0fc:683a:aa9a:1e74:18ca
+deny from 59.92.215.125
+deny from 183.179.238.77
 #######   HTAccessIPBlocker END    #######
